@@ -1,0 +1,5 @@
+1. Because if you do not import it VS code does not know that you are looking to use it
+2. The type of object
+3. There needs to be a parent function in order for JSX to work
+4. Imperative you have to explain everything to the computer
+5. Have small pieces that we can put together to make something larger than the small pieces
